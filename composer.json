@@ -1,0 +1,16 @@
+{
+    "name": "roticmedia/woocommerce",
+    "description": "WooCommerce WebAPI Responder for the NCB (Neura Chatbot)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milad Xandi",
+            "email": "stun.m_zandizand@riau.ac.ir"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
